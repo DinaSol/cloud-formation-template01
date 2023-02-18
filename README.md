@@ -1,6 +1,5 @@
 # Creating EC2-instance, VPC, Subnets, Security-group using Cloud-formation service in AWS
 
-------------
 ### Description
 - By using yaml-file you could create a VPC, subnets, security-group and EC2 instance using cloud-formation service in AWS.
 - Benefit of that project: 
@@ -43,4 +42,3 @@ I assigned the Security group i created above.
 5.  press on  *Choose file* so you can upload your yaml file
 6. then press next and Enter *Stack name* then *Submit*.
 
-------------
